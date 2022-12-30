@@ -9,4 +9,4 @@ My second landing page using Tailwindcss, I do see some improvements tbh
 
 ## Live Site:
 
-[Bookmark](https://fylo-static-landing-page.netlify.app)
+[Fylo landing page](https://fylo-static-landing-page.netlify.app)
