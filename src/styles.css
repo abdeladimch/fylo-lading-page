@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;600;700&display=swap");
+
+body {
+  background-color: #1c2434;
+}
+
+.nav-link,
+.footer-link {
+  @apply hover:text-gray-400 transition duration-300 ease-out cursor-pointer;
+}
+
+.btn-hover {
+  @apply hover:scale-105 transition duration-300 ease-out rounded-full py-3 px-4 bg-cyan-500;
+}
+
+.card {
+  background-color: #49505d;
+  @apply hover:scale-105 transition duration-300 ease-out cursor-pointer;
+}
+
+.cta {
+  background-color: #161d2a;
+}
